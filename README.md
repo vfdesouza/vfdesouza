@@ -1,6 +1,6 @@
 # Olá, sou o Vinícius Ferreira de Souza, seja bem-vindo(a)! 👋
 
-### - Graduando em Sistema de Informação, terceiro período. 
+🎯 Graduando em Sistema da Informação. 
 
 ### Estou aprendendo
 
